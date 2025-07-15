@@ -9,7 +9,7 @@ const Index = () => {
       <header className="container mx-auto px-4 py-6">
         <nav className="flex justify-between items-center">
           <div className="text-2xl font-bold bg-gradient-to-r from-red-500 to-purple-600 bg-clip-text text-transparent">
-            WomenClub
+            На своей волне
           </div>
           <div className="hidden md:flex space-x-8">
             <a href="#services" className="text-gray-700 hover:text-red-500 transition-colors">Услуги</a>
@@ -26,7 +26,7 @@ const Index = () => {
       <section className="container mx-auto px-4 py-20 text-center">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-red-500 via-purple-500 to-pink-500 bg-clip-text text-transparent animate-fade-in">
-            Женский Клуб
+            На своей волне
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 mb-8 animate-fade-in" style={{animationDelay: '0.2s'}}>
             Место силы, вдохновения и роста для современных женщин
@@ -162,7 +162,7 @@ const Index = () => {
                 <Icon name="Mail" size={28} className="text-white" />
               </div>
               <h3 className="text-xl font-bold mb-2 text-gray-800">Email</h3>
-              <p className="text-gray-600">hello@womenclub.com</p>
+              <p className="text-gray-600">hello@nasvoeivalny.com</p>
             </div>
 
             <div className="text-center">
@@ -193,7 +193,7 @@ const Index = () => {
       <footer className="bg-gray-900 text-white py-12">
         <div className="container mx-auto px-4 text-center">
           <div className="text-2xl font-bold bg-gradient-to-r from-red-400 to-pink-400 bg-clip-text text-transparent mb-4">
-            WomenClub
+            На своей волне
           </div>
           <p className="text-gray-400 mb-6">Место силы для современных женщин</p>
           <div className="flex justify-center space-x-6">
